@@ -1,0 +1,84 @@
+{
+  "mappings": [
+    {
+      "songName": "5th Floor",
+      "clipFileName": "5thFloor_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Aiguille Rouge",
+      "clipFileName": "AiguilleRouge_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Attention",
+      "clipFileName": "Attention_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Broken Man",
+      "clipFileName": "SpeakSoftly_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Chardonnay",
+      "clipFileName": "Chardonnay_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Cruising the Ice",
+      "clipFileName": "CruisingTheIce_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Dust You and Me",
+      "clipFileName": "DustYouAndMe_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Let's Dance",
+      "clipFileName": "LetsDance_mixdown_V02_quieter"
+    },
+    {
+      "songName": "Long Road",
+      "clipFileName": "LongRoad_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Mystery",
+      "clipFileName": "Mystery_mixdown_V01_quieter"
+    },
+    {
+      "songName": "New Day Dawning",
+      "clipFileName": "NewDayDawning_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Queen's Light",
+      "clipFileName": "QueensLight_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Sandstorm",
+      "clipFileName": "Sandstorm_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Scarlett",
+      "clipFileName": "Scarlett_mixdown._V01wav_quieter"
+    },
+    {
+      "songName": "Set Me Free",
+      "clipFileName": "SetMeFree_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Shut Up and Play",
+      "clipFileName": "ShutUpAndPlay_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Tears in the Rain",
+      "clipFileName": "TearsInTheRain_mixdown_V01_quieter"
+    },
+    {
+      "songName": "Tgheer",
+      "clipFileName": "Tgheer_mixdown_V01_quieter"
+    },
+    {
+      "songName": "What I Want",
+      "clipFileName": "WhatIWant_mixdown_V01_quieter"
+    },
+    {
+      "songName": "You make me smile",
+      "clipFileName": "YouMakeMeSmile_mixdown_V01_quieter"
+    }
+  ]
+}
