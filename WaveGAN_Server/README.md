@@ -2,7 +2,12 @@
 Websocket server wrapper for the Donahue Drums GAN.
 
 > Slight modification of the server scripts taken from: https://hcai.eu/git/project/pufferfishsynth, sub-folder `GAN`.
-Originally written by Silvan Mertes and Ruben Schlagowski for the publication: Schlagowski, Ruben, Silvan Mertes, and Elisabeth André. "Taming the chaos: exploring graphical input vector manipulation user interfaces for GANs in a musical context." Audio Mostly 2021. 2021. 216-223.
+Python wrapper code originally written by Silvan Mertes and Ruben Schlagowski for the publication: Schlagowski, Ruben, Silvan Mertes, and Elisabeth André. "Taming the chaos: exploring graphical input vector manipulation user interfaces for GANs in a musical context." Audio Mostly 2021. 2021. 216-223.
+
+The WaveGAN that generates drum samples was created by Donahue et al.:
+Donahue, Chris, Julian McAuley, and Miller Puckette. "Adversarial audio synthesis." arXiv preprint arXiv:1802.04208 (2018).
+
+Their code is available at https://github.com/chrisdonahue/wavegan.
 
 ## Running the server
 Run the `pfsvrServer.py` script. This will start a Websocket Server listening on `localhost:9876`
